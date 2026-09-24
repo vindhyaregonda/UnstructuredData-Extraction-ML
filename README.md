@@ -1,4 +1,4 @@
-# PDF Classifier
+# Unstructure Data Classifier
 
 ## Objective
 Classify PDF URLs into four categories: **fuses**, **cable**, **lighting**, and **others**.
